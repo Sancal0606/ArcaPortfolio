@@ -1,0 +1,26 @@
+[
+    {
+      "role": "IT intern",
+      "organisation": "Procter and Gamble",
+      "startDate": "August, 2023",
+      "endDate": "June 2024",
+      "experiences": ["IT services", "OT team", "Project manager"],
+      "imageSrc": "history/pg-logo.png"
+    },
+    {
+      "role": "Student",
+      "organisation": "Tec de monterrey",
+      "startDate": "August, 2021",
+      "endDate": "Present",
+      "experiences": ["Object oriented programming", "Databases","Graphics Programming"],
+      "imageSrc": "history/tec.png"
+    },
+    {
+      "role": "Participant",
+      "organisation": "ICPC- International Collegiate Programming Contest",
+      "startDate": "January, 2023",
+      "endDate": "Present",
+      "experiences": [],
+      "imageSrc": "history/foundationlogo.png"
+    }
+  ]

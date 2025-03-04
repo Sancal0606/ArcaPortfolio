@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Bomb bomb boom",
+      "imageSrc": "projects/boom.png",
+      "description": "Save the citizens. Carefull with the bombs",
+      "skills": ["Godot", "Puzzle"],
+      "demo": "https://sancal0606.itch.io/bomb-bomb-boom",
+      "source": "https://github.com/Sancal0606/BombGame"
+    },
+    {
+      "title": "Harvest Demon",
+      "imageSrc": "projects/harvest_demon.png",
+      "description": "Climb as far as you can slashing your enemies",
+      "skills": ["Unity", "Pixel art"],
+      "demo": "https://sancal0606.itch.io/harvest-demon",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Ghost game",
+      "imageSrc": "projects/GhostGame.png",
+      "description": "Posses the soldiers in order to defeat them",
+      "skills": ["Godot", "Blender"],
+      "demo": "https://sancal0606.itch.io/ghost-game",
+      "source": "https://github.com/Sancal0606/GhostGame"
+    },
+    {
+      "title": "Wizard of Cards",
+      "imageSrc": "projects/WizardOfCards.png",
+      "description": "GMTK 2024 submission, theme: Built to Scale.",
+      "skills": ["Unity"],
+      "demo": "https://sancal0606.itch.io/wizardofcards",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "P.I.F.A",
+      "imageSrc": "projects/Pifa.png",
+      "description": "Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
+      "skills": ["Unity","Blender","Teamwork"],
+      "demo": "https://sancal0606.itch.io/pifa",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Traffic Simulator",
+      "imageSrc": "projects/traffic.png",
+      "description": "Ai agents for the cars running on a python server",
+      "skills": ["Unity","Python","Teamwork"],
+      "demo": "https://sancal0606.itch.io",
+      "source": "https://github.com/Sancal0606/Traffic_Simulator"
+    },
+    {
+      "title": "3d Graphics",
+      "imageSrc": "projects/graphics.png",
+      "description": "A 3D software renderer built from scratch, following the Pikuma's tutorial",
+      "skills": ["Unity","Python"],
+      "demo": "https://sancal0606.itch.io",
+      "source": "https://github.com/Sancal0606/3dGraphics"
+    }
+  ]
