@@ -16,6 +16,8 @@ const ProjectCard = ({project : {title,imageSrc,description,skills,demo,source}}
       <div className={styles.links}>
         <a href={demo} className={styles.link}>Demo</a>
         <a href={source} className={styles.link}>Source</a>
+        
+
       </div>
     </div>
   );
