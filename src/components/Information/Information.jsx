@@ -2,7 +2,7 @@ import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Information.module.css";
 
-const Information = ({info: {name, li1,li2,li3, drive, image}}) => {
+const Information = ({info: {Name, li1,li2,li3, Drive, Image}}) => {
     return (
         <section className={styles.container} id="information">
             

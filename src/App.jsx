@@ -1,23 +1,20 @@
-import styles from './App.module.css'
-import About from './components/About/About'
-import Contact from './components/Contact/Contact'
-import Experience from './components/Experience/Experience'
-import Hero from './components/Hero/Hero'
-import Information from './components/Information/Information'  // Remove this line
-import { Navbar } from './components/Navbar/Navbar'
-import Project from './components/Projects/Project'
+import styles from "./App.module.css";
+import Contact from "./components/Contact/Contact";
+import Hero from "./components/Hero/Hero";
+
+import { Navbar } from "./components/Navbar/Navbar";
+import Project from "./components/Projects/Project";
+import InfoSection from "./components/Information/InfoSection";
 
 function App() {
-  return <div className={styles.App}>
-    <Navbar></Navbar>
-    <Hero></Hero>
-    <Project></Project>
-    <About></About>
-    <Experience></Experience>
-    <Contact></Contact>
-    {/* <Information></Information>  // Remove this line */}
-
-  </div>
+  return (
+    <div className={styles.App}>
+      <Navbar></Navbar>
+      <Hero></Hero>
+      <Project></Project>
+      <Contact></Contact>
+    </div>
+  );
 }
 
-export default App
+export default App;

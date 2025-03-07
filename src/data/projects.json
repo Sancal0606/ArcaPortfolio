@@ -1,58 +1,53 @@
 [
-    {
-      "title": "Bomb bomb boom",
-      "imageSrc": "projects/boom.png",
-      "description": "Save the citizens. Carefull with the bombs",
-      "skills": ["Godot", "Puzzle"],
-      "demo": "https://sancal0606.itch.io/bomb-bomb-boom",
-      "source": "https://github.com/Sancal0606/BombGame"
-    },
-    {
-      "title": "Harvest Demon",
-      "imageSrc": "projects/harvest_demon.png",
-      "description": "Climb as far as you can slashing your enemies",
-      "skills": ["Unity", "Pixel art"],
-      "demo": "https://sancal0606.itch.io/harvest-demon",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Ghost game",
-      "imageSrc": "projects/GhostGame.png",
-      "description": "Posses the soldiers in order to defeat them",
-      "skills": ["Godot", "Blender"],
-      "demo": "https://sancal0606.itch.io/ghost-game",
-      "source": "https://github.com/Sancal0606/GhostGame"
-    },
-    {
-      "title": "Wizard of Cards",
-      "imageSrc": "projects/WizardOfCards.png",
-      "description": "GMTK 2024 submission, theme: Built to Scale.",
-      "skills": ["Unity"],
-      "demo": "https://sancal0606.itch.io/wizardofcards",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "P.I.F.A",
-      "imageSrc": "projects/Pifa.png",
-      "description": "Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
-      "skills": ["Unity","Blender","Teamwork"],
-      "demo": "https://sancal0606.itch.io/pifa",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Traffic Simulator",
-      "imageSrc": "projects/traffic.png",
-      "description": "Ai agents for the cars running on a python server",
-      "skills": ["Unity","Python","Teamwork"],
-      "demo": "https://sancal0606.itch.io",
-      "source": "https://github.com/Sancal0606/Traffic_Simulator"
-    },
-    {
-      "title": "3d Graphics",
-      "imageSrc": "projects/graphics.png",
-      "description": "A 3D software renderer built from scratch, following the Pikuma's tutorial",
-      "skills": ["Unity","Python"],
-      "demo": "https://sancal0606.itch.io",
-      "source": "https://github.com/Sancal0606/3dGraphics"
-    }
-  ]
+  {
+    "title": "DIF",
+    "imageSrc": "information/diffod2.png",
+    "li1": "Mobile application for clients and administrators",
+    "li2": "Web platform with statistics for decision-making",
+    "li3": "Servers hosted on AWS",
+    "skills": [],
+    "demo": "https://drive.google.com/drive/folders/1xTu8qJsF8LnObr5O-lE5Au5DHWZ0f3hq?usp=sharing",
+    "source": "https://github.com/Sancal0606/BombGame"
+  },
+  {
+    "title": "Harvest Demon",
+    "imageSrc": "projects/harvest_demon.png",
+    "li1": "Arcade PC game",
+    "li2": "All art, design and code made by us",
+    "li3": "Global highscore",  
+    "skills": [],
+    "demo": "https://sancal0606.itch.io/harvest-demon",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Call center",
+    "imageSrc": "information/connect.png",
+    "li1": "Mobile application for clients",
+    "li2": "Web portal for agents with graphs and statistics",
+    "li3": "Contact center using Amazon Connect",
+    "skills": [],
+    "demo": "https://drive.google.com/drive/folders/1H6GmFViBdswMI95mVb5ZVOXS6T-mOt1U?usp=sharing",
+    "source": "https://github.com/Sancal0606/GhostGame"
+  },
+
+  {
+    "title": "P.I.F.A",
+    "imageSrc": "projects/Pifa.png",
+    "li1":"Puzzle game",
+    "li2": "Educational game that help kids develope their coding skills",
+    "li3": "Dashboard to keep track of KPI",
+    "skills": [],
+    "demo": "https://sancal0606.itch.io/pifa",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Cisco",
+    "imageSrc": "information/cisco.png",
+    "li1": "Secure network environment with firewalls",
+    "li2": "VPN setup for remote connection",
+    "li3": "Cloud network deployment on AWS using Cisco software",
+    "skills": [],
+    "demo": "https://drive.google.com/drive/folders/1nRDEyqzLvgM4U4wxCIYPj59-eTOdQNRw?usp=sharing",
+    "source": "https://github.com/Sancal0606/Traffic_Simulator"
+  }
+]
