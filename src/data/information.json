@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Amazon",
+        "li1" : "Mobile application for clients",
+        "li2" : "Web portal for agents with graphs and statistics",
+        "li3" : "Contact center using Amazon Connect",
+        "Drive": "https://drive.google.com/drive/folders/1GUxGfVDSsqvOQNxQzq4pghqODcwyhWqz?usp=drive_link",
+        "Image": ""
+    },
+    {
+        "Name": "DIF",
+        "li1" : "Mobile application for clients and administrators",
+        "li2" : "Web platform with statistics for decision-making",
+        "li3" : "Servers hosted on AWS",
+        "Drive": "https://drive.google.com/drive/folders/1sIEdSgoV0bvWK2mJUJ5r3liidmgZHc62?usp=drive_link",
+        "Image": "information/diffod.png"
+    },
+    {
+        "Name": "Cisco",
+        "li1" : "Secure network environment with firewalls",
+        "li2" : "VPN setup for remote connection",
+        "li3" : "Cloud network deployment on AWS using Cisco software",
+        "Drive": "https://drive.google.com/drive/folders/1gtDBk0v3rOGPQRPW29DUTSsonA4vvbCB?usp=drive_link",
+        "Image": "information/cisco.png"
+    }
+
+]

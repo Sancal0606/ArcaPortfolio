@@ -27,6 +27,8 @@
 
 .links{
     display: flex;
+    margin-top: auto;
+    margin-bottom: auto;
     flex-direction: column;
     align-items: flex-start;
     list-style: none;

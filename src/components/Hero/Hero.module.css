@@ -33,6 +33,8 @@
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
+    margin-right: 24px;
+    text-align: justify;
 }
 
 .contactBtn{

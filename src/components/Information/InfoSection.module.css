@@ -1,0 +1,11 @@
+.container{
+    margin-top: 37px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+    z-index: 2;
+}
